@@ -2,6 +2,17 @@
 YOUR STYLES
 *******************/
 
+/* LightGallery */
+
+.lg-backdrop {
+    background: rgba(225,225,225,.5)
+}
+
+.lg-image {
+    box-shadow: 0 0 30px #333;
+    border-radius: 10px;
+}
+
 
 /* Header */
 header {
