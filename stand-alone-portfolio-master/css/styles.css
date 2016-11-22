@@ -38,6 +38,10 @@ MEDIA QUERIES
        background: red;
   }
   
+       figure {
+        width: 100%;
+        display: block;
+    }
 }
 
 /* Tablet:  768px = 160em */
