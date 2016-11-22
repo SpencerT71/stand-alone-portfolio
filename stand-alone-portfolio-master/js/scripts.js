@@ -12,3 +12,8 @@ var img2 = 'http://unsplash.it/400/400';
 
 // Show Images
 $('header img').attr('src', eval('img' + numRand) );
+
+// Activate Gallery
+$('figure').lightGallery({
+    selector: 'a'
+});
